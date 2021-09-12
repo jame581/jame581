@@ -6,10 +6,6 @@
   - ASP.NET, Blazor, .NET, Xamarin
 - 🌱 I’m currently learning Unreal Engine
 
-# Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jame581&theme=dark)](https://github.com/jame581/github-readme-stats)
-
-
 # 📫 How to reach me ...
 Feel free to contact me
 - [My portfolio](https://jame581.azurewebsites.net/)
