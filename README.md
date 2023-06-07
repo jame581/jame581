@@ -8,7 +8,7 @@
 
 # 📫 How to reach me ...
 Feel free to contact me
-- [My portfolio](https://jame581.azurewebsites.net/)
+- [My portfolio](https://jame581.github.io/portfolio/)
 - [Twitter](https://twitter.com/jame581)
 - [LinkedIn](https://www.linkedin.com/in/jan-mesarc/)
 - [Reddit](https://www.reddit.com/user/jame_581)
