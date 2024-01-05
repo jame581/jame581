@@ -12,6 +12,7 @@ Feel free to contact me
 - [Twitter](https://twitter.com/jame581)
 - [LinkedIn](https://www.linkedin.com/in/jan-mesarc/)
 - [Reddit](https://www.reddit.com/user/jame_581)
+- [Mastodon](https://mastodon.gamedev.place/@jame_581)
 
 # Buy me a coffee
 Do you like support my work, my dreams?
