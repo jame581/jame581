@@ -1,18 +1,19 @@
 # Jan Mesarč - @jame581
-- 👋 Hi, I’m software engineer who is passionate about game, web and mobile development
+- 👋 Hi, I’m a software engineer who is passionate about game, web, and mobile development
 - 👀 I’m interested in technologies:
-  - Game development: __Unreal Engine__, Unity, Godot
+  - Game development: __Unreal Engine__, Godot
   - Programming languages: __C#__, C++,
   - ASP.NET, Blazor, .NET, Xamarin, .NET MAUI
 - 🌱 I’m currently learning Godot
 
 # 📫 How to reach me ...
 Feel free to contact me
-- [My portfolio](https://janmesarc.online/)
+- [My Portfolio](https://janmesarc.online/)
 - [Twitter](https://twitter.com/jame581)
 - [LinkedIn](https://www.linkedin.com/in/jan-mesarc/)
 - [Reddit](https://www.reddit.com/user/jame_581)
 - [Mastodon](https://mastodon.gamedev.place/@jame_581)
+- [Bluesky](https://bsky.app/profile/jame581.bsky.social)
 
 # Buy me a coffee
 Do you like support my work, my dreams?
