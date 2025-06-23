@@ -8,6 +8,7 @@
 
 # 📫 How to reach me ...
 Feel free to contact me
+- [Linktree](https://linktr.ee/jan.mesarc)
 - [My Portfolio](https://janmesarc.online/)
 - [Twitter](https://twitter.com/jame581)
 - [LinkedIn](https://www.linkedin.com/in/jan-mesarc/)
