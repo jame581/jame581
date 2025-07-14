@@ -16,7 +16,7 @@ I also have lots of experience building apps, websites, and mobile projects, but
 
 - **Games I've worked on:**
   - [Phantom Fury](https://store.steampowered.com/app/1733240/Phantom_Fury/) – First-person action adventure
-  - [The Last Oricru: Final Cut](https://store.steampowered.com/app/1663640/The_Last_Oricru__Final_Cut/?l=czech) – Story-driven RPG
+  - [The Last Oricru: Final Cut](https://store.steampowered.com/app/1663640/The_Last_Oricru__Final_Cut/) – Story-driven RPG
 - Check out my [Portfolio](https://janmesarc.online/) for my latest work!
 - Always exploring new tools and ideas to create awesome experiences.
 
