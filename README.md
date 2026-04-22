@@ -37,6 +37,10 @@ Feel free to reach out:
 Would you like to support my work and my dreams?  
 I’d really appreciate it if you [Buy Me A Coffee](https://www.buymeacoffee.com/jame581) — every cup fuels my creativity!
 
+
+## Daily Dev
+<a href="https://app.daily.dev/jame581"><img src="https://api.daily.dev/devcards/v2/bf1oQvZ7YicUU3JdYzOwn.png?type=wide&r=4ml" width="652" alt="Jan Mesarč's Dev Card"/></a>
+
 ---
 
 _I'm always open to collaboration and new opportunities. Let's build something amazing together!_
