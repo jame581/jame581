@@ -15,8 +15,8 @@ I also have lots of experience building apps, websites, and mobile projects, but
 ## 🏆 Projects & Achievements
 
 - **Games I've worked on:**
-  - [MOTHERGUNSHIP: FORGE](https://store.steampowered.com/app/1931240/MOTHERGUNSHIP_FORGE/) - Craft. Shoot. Die. Repeat.
-  - [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/) - Challenging gothic roguelike turn-based RPG
+  - [MOTHERGUNSHIP: FORGE](https://store.steampowered.com/app/1931240/MOTHERGUNSHIP_FORGE/) – Craft. Shoot. Die. Repeat.
+  - [Darkest Dungeon](https://store.steampowered.com/app/262060/Darkest_Dungeon/) – Challenging gothic roguelike turn-based RPG
   - [Phantom Fury](https://store.steampowered.com/app/1733240/Phantom_Fury/) – First-person action adventure
   - [The Last Oricru: Final Cut](https://store.steampowered.com/app/1663640/The_Last_Oricru__Final_Cut/) – Story-driven RPG
 - Check out my [Portfolio](https://janmesarc.online/) for my latest work!
